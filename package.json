@@ -1,0 +1,19 @@
+{
+  "name": "ig-octo",
+  "version": "1.0.0",
+  "description": "IG octoblue sample",
+  "main": "index.js",
+  "dependencies": {
+    "babel": "^5.8.23",
+    "johnny-five": "^0.8.93",
+    "meshblu": "^1.30.1",
+    "request": "^2.64.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Santiago Aguiar <saguiar@infragistics.com>",
+  "license": "ISC"
+}
